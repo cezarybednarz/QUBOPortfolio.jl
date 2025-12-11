@@ -1,0 +1,95 @@
+# LaTeX generated files
+*.aux
+*.bbl
+*.blg
+*.brf
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.out
+*.toc
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.run.xml
+
+# BibTeX generated files
+*.bbl
+*.bcf
+*.blg
+
+# Other backups and auxiliary files
+*~
+*.bak
+*.sav
+*.dvi
+*.ps
+*.nav
+*.snm
+*.h5
+*.db
+
+# Editors and OS-specific files
+.DS_Store
+Thumbs.db
+
+# LaTeX intermediate files
+*.synctex
+*.synctex(busy)
+*.synctex.gz(busy)
+
+# --- Python and Virtual Environment Files ---
+**/venv/
+**/env/
+**/.venv/
+**/.env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+/dist/
+/build/
+*.egg-info/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# --- Julia Project Files ---
+
+# Generated dependency files from Pkg.build()
+/deps/
+/build/
+
+# --- IDE and Editor Configuration ---
+
+# VS Code
+.vscode/
+
+# JetBrains (PyCharm, IntelliJ, etc.)
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Profiler output
+profile.pb.gz
+
+# Cache folder (heavy files)
+cache/*
+
+*.jld2
